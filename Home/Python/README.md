@@ -12,3 +12,6 @@ https://stepik.org/course/3356 -
 
 https://stepik.org/course/217 - 
 Алгоритмы: теория и практика. Методы
+
+https://www.coursera.org/learn/python-osnovy-programmirovaniya - 
+Основы программирования на Python
