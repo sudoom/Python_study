@@ -1,0 +1,6 @@
+m = int(input())
+v_1 = int(input())
+v_2 = int(input())
+v_m = int(input())
+t_o = m / (v_1 + v_2)
+print(int(v_m * t_o))
