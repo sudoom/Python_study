@@ -1,0 +1,14 @@
+imif
+get_digit
+{% widthratio 
+
+
+
+a
+asd
+
+asd
+
+f
+
+ max_value max_width as width%}

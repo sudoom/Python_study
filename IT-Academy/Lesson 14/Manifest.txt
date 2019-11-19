@@ -1,0 +1,1 @@
+['/home/worker/Python_study/IT-Academy/Lesson 14/hash_files/Hash_file_3.txt']
