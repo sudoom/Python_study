@@ -9,7 +9,7 @@
 
 import random
 
-WORDLIST_FILENAME = "/home/worker/PycharmProjects/Python_study/Home/Python/MIT/words.txt"
+WORDLIST_FILENAME = "/Home/Python/MIT/Problem Set 3/words.txt"
 
 
 def loadWords():
